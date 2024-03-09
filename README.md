@@ -1,5 +1,5 @@
-### Hi there 👋
-## I am Manoranjan :)
+## Hi there 👋
+### I am Manoranjan :)
 
 - 🔭 I am currently working as a Photonic IC Design Engineer at Quanfluence, India. Prior to that, I was a Post-doctorate fellow at IIT Bombay. I have a MS+PhD dual degree in the field of photonics from IIT Guwhahati, where my research work revolved around designing hybrid (de)multiplexers for optical interconnects. I obtained my bachelor's degree in Electronics and Communication Engineering from NIT Rourkela.
 - 🌱 Excited about the era of photonics. Trying to learn new things everyday and finding out ways to contribute.
